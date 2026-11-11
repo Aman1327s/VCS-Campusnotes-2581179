@@ -1,1 +1,30 @@
+# GitHub Collaboration Guide
+
 Updated from second cloned repository.
+
+## 1. Branch Naming Convention
+Use descriptive branch names:
+- feature/ for new features
+- fix/ for bug fixes
+- docs/ for documentation updates
+
+## 2. Commit Message Convention
+Use clear and consistent commit messages:
+- feat: for new features
+- fix: for bug fixes
+- docs: for documentation changes
+- refactor: for code improvements
+- chore: for maintenance tasks
+
+## 3. Pull Request Guidelines
+- Create a feature branch before making changes.
+- Write a clear Pull Request title.
+- Explain what changes were made and why.
+- Link the related issue.
+- Review changes before requesting a merge.
+
+## 4. Code Review Guidelines
+- Check code readability.
+- Identify possible bugs.
+- Suggest meaningful improvements.
+- Provide constructive feedback.
