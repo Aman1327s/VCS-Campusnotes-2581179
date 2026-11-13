@@ -10,4 +10,4 @@ CampusNotes is a collaborative repository for organizing and sharing academic no
 - Collaboration through branches and pull requests
 
 ## Purpose
-The project helps students maintain structured study materials and practice GitHub collaboration.
+The project helps students maintain structured study materials and practice GitHub collaboration. All contributors should follow consistent commit messages and review changes before merging.
