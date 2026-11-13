@@ -28,3 +28,9 @@ Use clear and consistent commit messages:
 - Identify possible bugs.
 - Suggest meaningful improvements.
 - Provide constructive feedback.
+## 5. Course Notes Management
+
+- Organize notes according to subjects and topics.
+- Maintain separate sections for each course.
+- Keep study materials easy to access.
+- Update notes regularly for better organization.
