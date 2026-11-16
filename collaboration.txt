@@ -34,3 +34,4 @@ Use clear and consistent commit messages:
 - Maintain separate sections for each course.
 - Keep study materials easy to access.
 - Update notes regularly for better organization.
+- issue has been fixed
